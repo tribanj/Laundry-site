@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div>
       {/* Hero Section */}
-      <section className="bg-cover bg-center h-screen" style={{ backgroundImage: `url('https://source.unsplash.com/1600x900/?laundry')` }}>
+      <section className="bg-cover bg-center h-screen" style={{ backgroundImage: `url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Flaundry-background&psig=AOvVaw1Lw7-CEi1qYYisf2icAJ7W&ust=1740920058115000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCBi9_26IsDFQAAAAAdAAAAABAE')` }}>
         <div className="bg-black bg-opacity-50 h-full flex items-center justify-center">
           <h1 className="text-white text-5xl font-bold">Welcome to Our Laundry Service</h1>
         </div>
